@@ -1,4 +1,4 @@
-# comment line
+# the following lines are patterns that git will ignore
 *.sam
 *.bam
 
